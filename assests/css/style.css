@@ -1,0 +1,37 @@
+body,html{
+    background-color: black;
+    font-family: 'Arimo', sans-serif;
+    color: beige;
+    font-size: 18px;
+}
+.quiz-container{
+    margin-left: 400px;
+}
+.top-row{
+    padding: 20px;
+    margin-top:40px;
+}
+.left-col{
+    min-width: 100px;
+    min-height: 100px;
+    padding: 0px;
+    border: 20px solid yellow;
+}
+.right-col{
+    min-width: 200px;
+    min-height: 200px;
+}
+.startbutton{
+    width: 200px;
+    margin-top:150px;
+}
+.clickme{
+    font-size: 18px;
+    color: red;
+    animation: bounceIn 2S;
+}
+img{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
