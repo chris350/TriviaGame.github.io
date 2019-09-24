@@ -1,7 +1,12 @@
 body,html{
-    background-color:black;
+    /*background-color:lightgray;*/
+    background-image: url("../images/random_grey_variations.png");
     color: white;
     font-family: 'Arimo', sans-serif;
+}
+.top-container{
+    background-color: black;
+    border: 20px solid yellow;
 }
 .quiz-container{
     margin-left: 400px;
