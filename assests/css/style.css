@@ -1,15 +1,24 @@
 body,html{
-    background-color: black;
+    background-color:black;
+    color: white;
     font-family: 'Arimo', sans-serif;
-    color: beige;
-    font-size: 18px;
 }
 .quiz-container{
     margin-left: 400px;
 }
+.timer-header{
+    color: red;
+}
+.question-group,.timer,.timer-header,.statement{
+    font-size: 20px;
+}
+.result-screen{
+    display: none;
+    color: gray;
+}
 .top-row{
     padding: 20px;
-    margin-top:40px;
+    margin-top:80px;
 }
 .left-col{
     min-width: 100px;
@@ -23,15 +32,25 @@ body,html{
 }
 .startbutton{
     width: 200px;
+    height: 50px;
     margin-top:150px;
+    border-radius: 15px;
 }
-.clickme{
+/*.clickme{
     font-size: 18px;
-    color: red;
     animation: bounceIn 2S;
-}
+}*/
 img{
     margin: 0px;
     padding: 0px;
     width: 100%;
+}
+#submitButton{
+    margin-top: 40px;
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+}
+.statement{
+    margin-top: 20px;
 }
