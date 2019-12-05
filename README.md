@@ -5,3 +5,10 @@ This is a homework project for Georgia Tech Full Stack Web Developement Bootcamp
 
 ![game](assests/images/GameImage.PNG)
 [Play the game](https://pshegde123.github.io/TriviaGame.github.io/)
+
+### Getting Started
+(1) Clone this repository
+
+(2) Change directory to TriviaGame
+
+(3) In your browser open file index.html
